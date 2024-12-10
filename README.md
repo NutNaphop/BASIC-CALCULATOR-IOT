@@ -19,7 +19,7 @@
 - Bread Board
 - สายโอนข้อมูลและจ่ายไฟ
 
-![20230823_205751.jpg](img/Bangkok%20Rush%20eaef875c22284ef985c98b61012c76b7/20230823_205751.jpg)
+![20230823_205751.jpg](img/20230823_205751.jpg)
 
 # ขั้นตอนการต่อ
 
@@ -62,18 +62,18 @@
 
 # Display
 
-![Start the game](img/Bangkok%20Rush%20eaef875c22284ef985c98b61012c76b7/Untitled.png)
+![Start the game](img/Untitled.png)
 
 Start the game
 
-![Game over 1](img/Bangkok%20Rush%20eaef875c22284ef985c98b61012c76b7/Untitled%201.png)
+![Game over 1](img/Untitled%201.png)
 
 Game over 1
 
-![Game play ](img/Bangkok%20Rush%20eaef875c22284ef985c98b61012c76b7/Untitled%202.png)
+![Game play ](img/Untitled%202.png)
 
 Game play 
 
-![High Score ](img/Bangkok%20Rush%20eaef875c22284ef985c98b61012c76b7/Untitled%203.png)
+![High Score ](img/Untitled%203.png)
 
 High Score
